@@ -1,0 +1,1 @@
+“une fonctionnalité” devient “deux fonctionnalités”
