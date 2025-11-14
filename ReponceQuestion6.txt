@@ -1,0 +1,2 @@
+git reset permet d'annuler un mouvement
+git revert permet d'annuler une modification 
