@@ -21,3 +21,6 @@ func main() {
 	http.HandleFunc("/color", ColorHandler)  
 ...  
 }  
+
+chmod +x ./script  
+./fake-colleague.sh <git-url> 
